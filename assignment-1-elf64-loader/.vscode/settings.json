@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "elf_processor.h": "c",
+        "typeinfo": "c",
+        "errno.h": "c"
+    }
+}
